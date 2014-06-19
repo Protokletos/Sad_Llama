@@ -1,7 +1,7 @@
 PhD
 ===
 
-**Hello** I am a README file. README files typically specify:
+**Hello there** I am a README file. README files typically specify:
 
 * Instructions
 * Documentation (e.g. [Git](http://git-scm.com))
