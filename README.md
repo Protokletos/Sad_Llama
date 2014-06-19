@@ -1,4 +1,4 @@
 PhD
 ===
 
-Hello I am a readme file.
+Hello I am a README file.
